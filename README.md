@@ -8,16 +8,18 @@ IPADMIN — это автономная консольная утилита дл
 🚀 Быстрая установка (в одну команду)
 
 Любой пользователь Linux может установить и сразу запустить сканер без установки Python и зависимостей:
-`sudo curl -sSL https://github.com/p1vas2003/ipadmin/releases/latest/download/ipadmin -o /usr/local/bin/ipadmin && sudo chmod +x /usr/local/bin/ipadmin`
+```
+sudo curl -sSL https://github.com/p1vas2003/ipadmin/releases/latest/download/ipadmin -o /usr/local/bin/ipadmin && sudo chmod +x /usr/local/bin/ipadmin
+```
 
 Чтобы запустить сканер, нужно в терминале написать одну команду:
-
-`ipadmin`
-
+```
+ipadmin
+```
 Но лучше использовать права рута:
-
-`sudo ipadmin`
-
+```
+sudo ipadmin
+```
 # Общее описание программы
 
 
